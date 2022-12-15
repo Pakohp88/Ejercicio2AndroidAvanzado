@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Ejercicio2</string>
+    <string name="dispositivos_moviles_8">Dispositivos Moviles 8</string>
+    <string name="titulo_barra">Consumo de servicios web</string>
+    <string name="logo_unam">Pakman</string>
+    <string name="abrir">Abrir</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="add">Agregar Estudiante</string>
+    <string name="list">Listar Estudiantes</string>
+    <string name="search">Buscar Estudiante</string>
+    <string name="delete">Eliminar Estudiante</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="error">Error en conexion</string>
+    <string name="materia1">Materia 1</string>
+    <string name="materia2">Materia 2</string>
+    <string name="invalid">Dato Invalido</string>
+    <string name="save">Guardar</string>
+</resources>
